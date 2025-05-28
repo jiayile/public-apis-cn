@@ -1,4 +1,9 @@
-# 免费公共API大全
+# 🇨🇳 免费公共API大全
+
+[![GitHub stars](https://img.shields.io/github/stars/public-apis-zh/public-apis-zh?style=social)](https://github.com/public-apis-zh/public-apis-zh/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/public-apis-zh/public-apis-zh?style=social)](https://github.com/public-apis-zh/public-apis-zh/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/public-apis-zh/public-apis-zh)](https://github.com/public-apis-zh/public-apis-zh/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Public APIs 中文版是一个由社区成员精心维护的公共API集合，包含来自各个领域的大量公共API，您可以在自己的产品中使用这些API。这是一个经过多年社区管理的API宝库。
 
